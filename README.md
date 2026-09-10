@@ -2,8 +2,6 @@
 
 A small React app for logging purchases: product name, price, remaining balance, and an optional note. Entries are viewable on a separate Products page, reachable from the navbar.
 
-Theme: black background with a dark orange (`#c1440e`) accent, minimal hover effects on inputs and buttons.
-
 ## Folder structure
 
 ```
